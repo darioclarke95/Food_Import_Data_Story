@@ -1,0 +1,26 @@
+body {
+  font-family: Courier;
+  color:   #086faa  ;
+}
+
+h1 {
+
+}
+
+.viz-title {
+  font-weight: bold;
+}
+
+.Viz .text{
+  width: 750px;
+  margin: auto;
+}
+
+svg{
+  display: block;
+  margin: auto;
+}
+
+.Viz {
+  margin: auto;
+}
